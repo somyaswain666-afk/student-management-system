@@ -1,0 +1,17 @@
+.venv/
+
+.env
+
+__pycache__/
+
+*.pyc
+
+*.db
+
+.DS_Store
+
+.git/
+
+chroma_db/
+
+langchain_chroma_db/
