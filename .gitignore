@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+
+# macOS
+.DS_Store
+
+# ChromaDB
+chroma_db/
+langchain_chroma_db/
